@@ -1,4 +1,4 @@
-require "pry"
+
 class Project
 
   attr_reader :name, :creator, :goal
